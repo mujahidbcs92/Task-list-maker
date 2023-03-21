@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mujahidbcs92/Task-list-maker.git/static/css/main.79918b08.css",
-    "main.js": "/mujahidbcs92/Task-list-maker.git/static/js/main.fcce5acd.js",
-    "index.html": "/mujahidbcs92/Task-list-maker.git/index.html",
-    "main.79918b08.css.map": "/mujahidbcs92/Task-list-maker.git/static/css/main.79918b08.css.map",
-    "main.fcce5acd.js.map": "/mujahidbcs92/Task-list-maker.git/static/js/main.fcce5acd.js.map"
+    "main.css": "/Task-list-maker/static/css/main.79918b08.css",
+    "main.js": "/Task-list-maker/static/js/main.fcce5acd.js",
+    "index.html": "/Task-list-maker/index.html",
+    "main.79918b08.css.map": "/Task-list-maker/static/css/main.79918b08.css.map",
+    "main.fcce5acd.js.map": "/Task-list-maker/static/js/main.fcce5acd.js.map"
   },
   "entrypoints": [
     "static/css/main.79918b08.css",
